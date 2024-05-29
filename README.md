@@ -1,10 +1,20 @@
-<h2 align="left">Hi 👋! My name is Noor and I'm a Android Developer,Android Developer dedicated to creating cutting-edge mobile apps. Skilled in 🛠 modern Android technologies </h2>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/Noorkbr" width="100" height="100" alt="profile picture" />
+  <h1>Hi there, I'm Noor 👋</h1>
+  <h3>I'm a passionate Developer from Bangladesh</h3>
+</div>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noorkbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noorkbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noorkbr&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorkbr&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noorkbr&theme=dracula" height="150" alt="streak graph" />
 </div>
 
 ###
